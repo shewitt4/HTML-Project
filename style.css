@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(197, 167, 128);
+    font-size: 18px;
+    color: rgb(115, 58, 4);
+}
+a {
+    color: rgb(115, 58, 4);
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover {
+    font-weight: bolder;
+    font-size: 25px;
+}
+.bold {
+    font-weight: bold;
+}
+.box {
+    border: 1px solid;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 50px;
+}
